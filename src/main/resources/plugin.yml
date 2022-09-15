@@ -1,0 +1,7 @@
+name: TF Shop
+version: '${project.version}'
+main: dev.totalfreedom.tfshop.TFShop
+api-version: 1.19
+authors: [ TotalFreedom ]
+description: The shop for TotalFreedom
+website: https://totalfreedom.me/forums
